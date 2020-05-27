@@ -1,8 +1,0 @@
-// the master.adoc file for your solution pattern
-
-//Solution Pattern Title
-= Washing the Cat
-
-include::walkthroughs/wash-the-cat.adoc[]
-
-//might could try to replace the walkthroughs/wash-the-cat.adoc assembly with this one, removing a level of nesting
