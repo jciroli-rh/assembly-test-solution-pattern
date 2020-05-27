@@ -1,0 +1,6 @@
+// the master.adoc file for your solution pattern
+
+//Solution Pattern Title
+= Washing the Cat
+
+include::walkthroughs/wash-the-cat.adoc[]
