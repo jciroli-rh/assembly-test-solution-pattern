@@ -4,8 +4,7 @@ Imma put some content here
 And more here.
 
 // Part 1
-include::1-assemble-me/walkthrough.adoc[leveloffset=+1]
+include::content/testy.adoc[leveloffset=+1]
 
-// Part 2
-include::1-assemble-me/assembly_taskOne.adoc[leveloffset=+1]
+
 
