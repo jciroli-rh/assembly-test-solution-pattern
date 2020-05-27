@@ -25,4 +25,4 @@ Here's some common text. Now let's see if we can pull in an assembly file.
 
 :sectnums:
 
-include::assembly_taskOne.adoc[]
+
