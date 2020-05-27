@@ -1,4 +1,9 @@
-:includedir: .
+ifdef::context[:parent-context: {context}]
+
+[id="wash cat"]
+
+//title
+= Washing the cat
 
 Imma put some content here
 
