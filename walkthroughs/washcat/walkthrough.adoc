@@ -1,16 +1,21 @@
 ifdef::context[:parent-context: {context}]
 
-[id="wash cat"]
+[id="wash-the-cat"]
+= Wash the cat
 
-//title
-= Washing the cat
+//If the assembly covers a task, start the title with a verb in the gerund form, such as Creating or Configuring.
+
+:context: wash-cat
+// The `context` attribute enables module reuse. Every module's ID includes {context}, which ensures that the module has a unique ID even if it is reused multiple times in a guide.
+
+
 
 Imma put some content here
 
 And more here.
 
 // Part 1
-include::testy.adoc[leveloffset=+1]
+include::/content/testy.adoc[leveloffset=+1]
 
 
 
