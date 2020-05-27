@@ -1,10 +1,11 @@
+:includedir: .
 
 Imma put some content here
 
 And more here.
 
 // Part 1
-include::./content/testy.adoc[leveloffset=+1]
+include::testy.adoc[leveloffset=+1]
 
 
 
